@@ -11,6 +11,11 @@ UNDERLINE様のサイトを参考に作成
 ## profile
 プロフィールページ
 
+仕事依頼用の連絡先
+LinkedInのURL
+GitHubのURL
+SNSアカウントのURL
+
 ### ポートフォリオ
 Webサービス・Webライティングでの実績を掲載
 
