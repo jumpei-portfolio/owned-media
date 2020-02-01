@@ -8,6 +8,8 @@ figma利用でワイヤーフレーム作成
 
 UNDERLINE様のサイトを参考に作成
 
+SPAで作成
+
 ## profile
 プロフィールページ
 
